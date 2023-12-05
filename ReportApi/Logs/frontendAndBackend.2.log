@@ -1,0 +1,5 @@
+[14.10.2023 12:00:00.813][Info][RequestHandler] Request #16 with 7 items received from user testuser16@domain.com
+[15.10.2023 12:00:00.813][Warning][EventHandler] Request #17 with 18 items received
+[16.10.2023 12:00:00.813][Info][EventHandler] Request #18 with 23 items received from user testuser18@domain.com
+[17.10.2023 12:00:00.813][Info][EventHandler] Request #19 with 4 items received
+[18.10.2023 12:00:00.813][Error][EventHandler] Request #20 with 13 items received from user testuser20@domain.com

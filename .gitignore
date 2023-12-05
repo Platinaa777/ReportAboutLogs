@@ -1,0 +1,9 @@
+
+
+ReportApi/bin/Debug/net7.0/win-x64/*
+ReportApi/obj/Debug/net7.0/win-x64/*
+.git/*
+.idea/*
+*.dll
+*.exe
+*.pdb
